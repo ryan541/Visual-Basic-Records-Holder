@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\Database1\Database1\bin\Debug\Database1.exe.config
+C:\Users\user\source\repos\Database1\Database1\bin\Debug\Database1.exe
+C:\Users\user\source\repos\Database1\Database1\bin\Debug\Database1.pdb
+C:\Users\user\source\repos\Database1\Database1\bin\Debug\Database1.xml
+C:\Users\user\source\repos\Database1\Database1\obj\Debug\Database1.Form1.resources
+C:\Users\user\source\repos\Database1\Database1\obj\Debug\Database1.Resources.resources
+C:\Users\user\source\repos\Database1\Database1\obj\Debug\Database1.vbproj.GenerateResource.cache
+C:\Users\user\source\repos\Database1\Database1\obj\Debug\Database1.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Database1\Database1\obj\Debug\Database1.exe
+C:\Users\user\source\repos\Database1\Database1\obj\Debug\Database1.xml
+C:\Users\user\source\repos\Database1\Database1\obj\Debug\Database1.pdb
+C:\Users\user\source\repos\Database1\Database1\bin\Debug\Customer.mdb
+C:\Users\user\source\repos\Database1\Database1\obj\Debug\Database1.vbprojAssemblyReference.cache
